@@ -1,0 +1,15 @@
+[1222/154515.616:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1222/224907.203:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1222/224907.209:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1222/224907.195:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1222/224907.185:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1222/224907.202:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1222/224907.201:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1222/224907.190:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1222/224907.349:ERROR:exception_snapshot_win.cc(99)] thread ID 10260 not found in process
+[1222/224907.349:ERROR:exception_snapshot_win.cc(99)] thread ID 17860 not found in process
+[1222/224907.349:ERROR:exception_snapshot_win.cc(99)] thread ID 14180 not found in process
+[1222/224907.350:ERROR:exception_snapshot_win.cc(99)] thread ID 19584 not found in process
+[1222/224907.350:ERROR:exception_snapshot_win.cc(99)] thread ID 19500 not found in process
+[1222/224907.350:ERROR:exception_snapshot_win.cc(99)] thread ID 17228 not found in process
+[1222/224907.350:ERROR:exception_snapshot_win.cc(99)] thread ID 14460 not found in process
